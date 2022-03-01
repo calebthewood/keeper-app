@@ -1,0 +1,5 @@
+Directory: 
+C:\Program Files\MongoDB\Server\5.0\data\
+
+Data File:
+C:\data
